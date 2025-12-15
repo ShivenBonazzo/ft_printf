@@ -3,8 +3,9 @@
 - To recode the printf() function from libc. 
 - Useful project to learn about variadic functions in C.
 # Instructions
-- 
+- make to compile the library.
 # Resources
 - https://www.geeksforgeeks.org/c/variadic-functions-in-c/
 - https://beej.us/guide/bgc/html/split/variadic-functions.html
 - https://www.gnu.org/software/c-intro-and-ref/manual/html_node/Variable-Number-of-Arguments.html
+- AI used to check for edge cases
